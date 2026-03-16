@@ -25,6 +25,7 @@ body {
     gap: 16px;
     padding: 60px;
     background-color:#1F2937;
+    padding-bottom: 80px;
 }
 
 h1 {
@@ -82,7 +83,7 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 40px;
+    padding: 60px;
 }
 
 .features {
@@ -120,3 +121,29 @@ h3 {
     margin: 0;
     padding: 0;
 }
+
+.section-three {
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+    background-color: #E5E7EB;
+}
+
+.testimonial-quote {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 40px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.quote-attribution {
+    font-size: 14px;
+    font-weight: bold;
+    align-self: flex-end;
+}
+
