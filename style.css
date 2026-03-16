@@ -147,3 +147,21 @@ h3 {
     align-self: flex-end;
 }
 
+.section-four {
+    padding: 60px 120px;
+}
+
+.cta {
+    display: flex;
+    padding: 30px;
+    justify-content: space-around;
+    background-color: #3882F6;
+    align-items: center;
+    color: white;
+    border-radius: 10px;
+}
+
+.signup-button {
+    color: white;
+    border: 1px solid white;
+}
